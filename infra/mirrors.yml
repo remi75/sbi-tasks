@@ -12,6 +12,9 @@ mirrors:
     # and doesn't require 'entropy' path.
     - http://pkg.sabayon.org
 
+    # France : remi.lu, Paris
+    - http://mir.sabayon.fr
+    
     # Holland
 
     # NLUUG, Holland
